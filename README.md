@@ -1,64 +1,64 @@
 <p align="center">
     <img src="https://telegra.ph/file/f5f9587a03915b487c56f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">YaeMiko - MD</h1>
+<h1 align="center">YaeBot - MD</h1>
 <p align="center">
-  <a href="https://github.com/ChataOfc"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=YaeMiko+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Okta;Re-Recode+By+Jikarinka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/MennMpaa"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=YaeBot+Multi+Device;Base+ori+by+MennKhece;Recode+By+Sukma;Re-Recode+By+DennXd;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="YaeMiko" src="https://img.shields.io/badge/YaeMiko-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="YaeBot" src="https://img.shields.io/badge/YaeBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ChataOfc"><img title="Author" src="https://img.shields.io/badge/AUTHOR-YaeMiko-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285731947500">
+  <a href="https://wa.me/6288298647652">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/">
+  <a href="https://www.tiktok.com/@mennxs">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/OktaModz">
+  <a href="https://www.instagram.com/MennKhece/">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto: zyyyzeus@gmail.com">
+  <a href="mailto: mennxsstore10@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6285731947500"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285749543572) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285731947500) 
+## ```Whatsapp``` <a href="https://wa.me/6288298647652"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288298647652) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288298647652) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk) 
 ---------
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/ChataOfc) |
-| **No Internet** |[✔️](https://github.com/ChataOfc) |
-| **Simple** |[✔️](https://github.com/ChataOfc) |
-| **Button template** |[✔️](https://github.com/ChataOfc) |
-| **Multi Device** |[✔️](https://github.com/ChataOfc) |
+| **Fast Respon** |[✔️](https://github.com/MennMpaa) |
+| **No Internet** |[✔️](https://github.com/MennMpaa) |
+| **Simple** |[✔️](https://github.com/MennMpaa) |
+| **Button template** |[✔️](https://github.com/MennMpaa) |
+| **Multi Device** |[✔️](https://github.com/MennMpaa) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/ChataOfc) |
-| **Internet** |[✔️](https://github.com/ChataOfc) |
-| **Game Rpg** |[✔️](https://github.com/ChataOfc) |
-| **Nsfw** |[✔️](https://github.com/ChataOfc) |
-| **Sticker** |[✔️](https://github.com/ChataOfc) |
-| **Game** |[✔️](https://github.com/ChataOfc) |
-| **Kerang Ajaib** |[✔️](https://github.com/ChataOfc) |
-| **Quotes** |[✔️](https://github.com/ChataOfc) |
-| **Anime** |[✔️](https://github.com/ChataOfc) |
-| **Premium** |[✔️](https://github.com/ChataOfc) |
-| **Tools** |[✔️](https://github.com/ChataOfc) |
-| **Exec** |[✔️](https://github.com/ChataOfc) |
-| **React** |[✔️](https://github.com/ChataOfc) |
+| **Downloader** |[✔️](https://github.com/MennMpaa) |
+| **Internet** |[✔️](https://github.com/MennMpaa) |
+| **Game Rpg** |[✔️](https://github.com/MennMpaa) |
+| **Nsfw** |[✔️](https://github.com/MennMpaa) |
+| **Sticker** |[✔️](https://github.com/MennMpaa) |
+| **Game** |[✔️](https://github.com/MennMpaa) |
+| **Kerang Ajaib** |[✔️](https://github.com/MennMpaa) |
+| **Quotes** |[✔️](https://github.com/MennMpaa) |
+| **Anime** |[✔️](https://github.com/MennMpaa) |
+| **Premium** |[✔️](https://github.com/MennMpaa) |
+| **Tools** |[✔️](https://github.com/MennMpaa) |
+| **Exec** |[✔️](https://github.com/MennMpaa) |
+| **React** |[✔️](https://github.com/MennMpaa) |
 ---------
 
 ## `SETTING`
@@ -232,19 +232,19 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/ChataOfc)
-* [`My parents`](https://github.com/ChataOfc)
-* [`All Friends`](https://github.com/ChataOfc)
-* [`All Contributors`](https://github.com/ChataOfc)
-* [`All Creator Bot`](https://github.com/ChataOfc)
+* [`Allah SWT`](https://github.com/MennMpaa)
+* [`My parents`](https://github.com/MennMpaa)
+* [`All Friends`](https://github.com/MennMpaa)
+* [`All Contributors`](https://github.com/MennMpaa)
+* [`All Creator Bot`](https://github.com/MennMpaa)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
 * [`KannaChan`](http://github.com/kannachann)
-* [`Me`](https://github.com/ChataOfc)
+* [`Me`](https://github.com/MennMpaa)
 
 ## ```Recode By 🐾```
-[![Chata](https://github.com/ChataOfc.png?size=100)](http://github.com/kannachann)
+[![Chata](https://github.com/MennMpaa.png?size=100)](http://github.com/kannachann)
 
 ## ```Fixed By 🐾```
 [![Rominaru](https://github.com/Rominaru.png?size=100)](http://github.com/Rominaru)
