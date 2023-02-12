@@ -1,8 +1,8 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
 ┌─「 Pulsa 」
-│ • *Indosat:* [${global.ppulsa}]
-│ • *Im3:* [${global.ppulsa2}]
+│ • *Smartfren:* [${global.ppulsa}]
+│ • *Telkomsel:* [${global.ppulsa2}]
 ❏────
 
 ┌─「 Non Pulsa 」
